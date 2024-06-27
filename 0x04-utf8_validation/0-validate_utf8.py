@@ -30,3 +30,4 @@ def validUTF8(data):
                 return False
         bits_count -= 1
     return bits_count == 0
+
