@@ -1,3 +1,4 @@
+#!/usr/bin/node
 const request = require('request');
 const fetchName = function (arr, i){
 	if(i >= arr.length){
